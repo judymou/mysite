@@ -1754,6 +1754,11 @@
     background: white;
     text-shadow: none;
   }
+/* Personal */
+  #portfolio .image img {
+    height: 22em;
+  }
+
 /* Desktop */
 
 	@media screen and (min-width: 737px) {
