@@ -1731,6 +1731,10 @@
     width: 48%;
   }
 
+  #work .image img {
+    max-height: 24em;
+  }
+
   #work .content {
     width: 52%;
     padding: 2em 2em 0.1em 2em;
@@ -2139,6 +2143,10 @@
       }
       #work .image {
         width: 100%;
+      }
+      
+      #work .image img {
+        max-height: 20em;
       }
 
       #work .content {
