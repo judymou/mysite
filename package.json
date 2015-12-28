@@ -1,9 +1,9 @@
 {
-  "name": "sabrinapu",
-  "description": "sabrinapu",
+  "name": "judymou",
+  "description": "judymou",
   "version": "0.0.1",
   "scripts": {
-    "start": "node sabrinapu.js"
+    "start": "node judymou.js"
   },
   "dependencies": {
     "body-parser": "latest",
