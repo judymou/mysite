@@ -8,7 +8,7 @@ window.Projects = [
   {
     title: 'Collegelab',
     desc: "Collegelab helps students navigate the often-confusing and stressful process of college admission. I moved to the U.S. after middle school and was unfamilar with the whole process. I created Collegelab hoping to help students similar to me.",
-    imgurl: 'http://i.imgur.com/dkDvSQn.jpg',
+    imgurl: 'http://i.imgur.com/JfbhJob.jpg',
     url: 'http://www.collegelab.us/en',
   },
   {
