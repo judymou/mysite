@@ -1484,7 +1484,11 @@
 					background-color: #DA2713;
 				}
 
-				ul.social li a.fa-github {
+				ul.social li a.fa-envelope-square {
+					background-color: #DA2713;
+				}
+				
+        ul.social li a.fa-github {
 					background-color: #FAFAFA;
 				}
 
