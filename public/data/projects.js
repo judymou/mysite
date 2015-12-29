@@ -19,13 +19,13 @@ window.Projects = [
   },
   {
     title: 'Circl',
-    desc: 'You ask your friends for advice on everything already, why not also ask them for advice on potential dating matches? :P Now you can on Circl, the first dating app that brings your friends into conversation and helps you make better decisions. Winner of Firebase at LAUNCH 2015.',
+    desc: 'You ask your friends for advice on everything already, why not also ask them for advice on potential dating matches? :P Now you can on Circl, the first dating app that brings your friends into the conversation and helps you make better decisions. Winner of Firebase at LAUNCH 2015.',
     imgurl: 'http://i.imgur.com/lQm8i0s.png',
     url: 'http://devpost.com/software/circl-dating-app',
   },
   {
     title: 'Space Balloons',
-    desc: 'I have sent 3 balloons to near space the past year (2015). One of them is part of a successful Kickstarter campaign to launch a potato into near space. I learned how to prepare for a balloon launch, got amazing pictures, and explored central california, where we launched balloons. This project is part of a bigger (secret) mission!',
+    desc: 'I have sent 3 balloons to near space in the past year (2015). One of them is part of a successful Kickstarter campaign to launch a potato into near space. I learned how to prepare for a balloon launch, got amazing pictures, and explored Central California, where we launched the balloons from. This project is part of a bigger (secret) mission!',
     imgurl: 'http://i.imgur.com/TqS1BOd.png',
     url: 'https://www.kickstarter.com/projects/5113868/a-potato-powered-flight-to-near-space/description',
   },
